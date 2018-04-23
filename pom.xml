@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>ch.epfl.big</groupId>
-	<artifactId>Example_ImageJ_Plugin</artifactId>
+	<artifactId>ImageJ_Plugin_Model</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
 	<name>ImageJ Plugin Model</name>
