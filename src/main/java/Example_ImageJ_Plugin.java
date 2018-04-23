@@ -5,7 +5,6 @@ import ij.gui.GenericDialog;
 import ij.plugin.PlugIn;
 import ij.process.ImageProcessor;
 
-
 public class Example_ImageJ_Plugin implements PlugIn {
 
 	@Override
