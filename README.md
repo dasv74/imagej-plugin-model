@@ -12,8 +12,8 @@ In Run Configurations add:
 
 Git commit
 ----------
-cd "working directory"
-git status
-git add .
-git commit -m ‘message’
-git push origin HEAD
+- cd "working directory"
+- git status
+- git add .
+- git commit -m ‘message’
+- git push origin HEAD
